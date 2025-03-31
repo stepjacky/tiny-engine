@@ -3,7 +3,7 @@ import {
   createApp,
   defineAsyncComponent,
   h
-} from 'https://registry.npmmirror.com/vue/3.4.23/files/dist/vue.runtime.esm-browser.js'
+} from 'http://localhost/cdn/vue/3.4.23/files/dist/vue.runtime.esm-browser.js'
 import { compile } from './index'
 import BlockFileName from '../test/sample/BlockFileName.vue?raw'
 import BlockHead from '../test/sample/BlockHead.vue?raw'
